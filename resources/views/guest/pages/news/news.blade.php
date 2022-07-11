@@ -1,0 +1,1 @@
+<p>Đây là trang danh tin tức</p>
